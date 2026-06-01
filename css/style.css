@@ -9,8 +9,8 @@ body {
   justify-content: center;
   align-items: center;
   font-family: Arial;
-  background: linear-gradient(135deg, #dde7ff, #f7f9ff);
-  color: #202124;
+  background: #dde7ff;
+
 }
 
 .app {
